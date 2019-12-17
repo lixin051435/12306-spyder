@@ -12,8 +12,8 @@
 
     5.截图
 
-    ![截图1](https://github.com/lixin051435/12306-spyder/blob/master/images/1.png)
+    ![截图1](images/1.png)
 
-    ![截图2](https://github.com/lixin051435/12306-spyder/blob/master/images/2.png)
+    ![截图2](images/2.png)
 
 
