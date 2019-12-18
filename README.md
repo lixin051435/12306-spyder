@@ -12,7 +12,7 @@
 
     5.截图
 
-    <img src="images/1.png">
-    <img src="images/2.png">
+    <img src="https://github.com/lixin051435/12306-spyder/blob/master/images/1.png">
+    <img src="https://github.com/lixin051435/12306-spyder/blob/master/images/2.png">
 
 
