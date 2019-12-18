@@ -12,8 +12,7 @@
 
     5.截图
 
-    ![截图1](images/1.png)
-
-    ![截图2](images/2.png)
+    <img src="images/1.png">
+    <img src="images/2.png">
 
 
